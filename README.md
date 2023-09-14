@@ -1,3 +1,5 @@
 # github-class
 
-just an update on the README file
+Now I have a new js file
+
+another change
